@@ -1,6 +1,8 @@
 ---
 
 # **Amazon USA Sales Analysis Project**
+![ERD Scratch](https://github.com/AG2214/Amazon-Project/blob/main/amazon_india_wide_image-3.jpg)
+
 
 ---
 
